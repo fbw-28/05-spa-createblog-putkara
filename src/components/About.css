@@ -1,0 +1,49 @@
+.box {
+    width: 925px;
+    max-width: 200vw;
+    height: auto;
+    padding: 14px 16px;
+    background-color: #000000d0;
+    font-family: "Archivo Black", "Archivo", sans-serif;
+    display: block;
+
+
+}
+
+
+.new {
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: "Archivo Black", "Archivo", sans-serif;
+    font-weight: bolder;
+
+
+}
+
+
+
+.mor {
+    background-color: rgba(224, 176, 200, 0.842);
+    padding: 5px;
+    font-weight: bolder;
+    border: 1px solid black;
+    text-align: center;
+    height: 40px;
+
+
+}
+
+.read {
+    background-color: rgba(224, 176, 200, 0.842);
+    padding: 5px;
+    border: 1px solid black;
+    height: 40px;
+}
+
+.time {
+    background-color: rgba(224, 176, 200, 0.842);
+    padding: 5px;
+    border: 1px solid black;
+    height: 40px;
+
+}
